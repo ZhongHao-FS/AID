@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZhongHao_CE02</string>
+    <string name="text_sechead1">Introduction</string>
+    <string name="text_imageDes">Banner image</string>
+    <string name="text_intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et semper purus. Phasellus sed augue vulputate, facilisis quam eu, finibus quam. Sed congue, ex a convallis pharetra, velit quam tristique diam, eget vestibulum nibh turpis at dui. Suspendisse lacinia arcu a sapien placerat eleifend. Phasellus iaculis orci at diam vestibulum, et sodales purus pellentesque. Vivamus eu rhoncus massa. Nunc posuere varius tristique. In egestas, leo ac imperdiet facilisis, turpis nibh sagittis nulla, id tempor justo purus sit amet arcu. Etiam tempor tincidunt tortor nec malesuada. Maecenas scelerisque pharetra ultrices. Ut et ex justo.</string>
+    <string name="text_sechead2">Summary</string>
+    <string name="text_summary">Donec sed mi et diam finibus aliquet. Pellentesque mi mauris, venenatis vitae sodales id, varius at lectus. Nullam eget hendrerit elit. Praesent metus dui, dapibus sit amet dapibus eu, elementum at metus. Etiam turpis metus, pharetra commodo risus at, iaculis rutrum sem. Nunc eu sagittis ligula, vitae semper tortor. Curabitur sit amet faucibus massa.</string>
+    <string name="text_sechead3">Conclusion</string>
+    <string name="text_conclusion">Nullam ac bibendum elit. Nulla facilisi. Sed laoreet massa eu lobortis euismod. Phasellus consectetur enim ac urna ornare luctus. Donec laoreet, velit et faucibus sollicitudin, tellus metus luctus quam, in bibendum lorem nibh at mi. Curabitur rutrum eros quis cursus dapibus. Sed condimentum rhoncus ex sit amet vehicula. Mauris iaculis at arcu quis venenatis. Ut egestas orci nisl, ornare ultricies lorem egestas eu. Maecenas sed eros et sem molestie pulvinar. Vestibulum ultrices molestie orci, sed tristique urna placerat a.</string>
+</resources>

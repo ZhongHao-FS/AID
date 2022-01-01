@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZhongHao_CE03</string>
+    <string name="image_description">icon</string>
+    <string name="label1">Background Color:</string>
+    <string name="radioButton_bc2">Green</string>
+    <string name="radiobutton_bc3">Black</string>
+    <string name="radioButton_bc1">Purple</string>
+    <string name="editText_hint">Display Text</string>
+    <string name="radioButton_tc2">Green</string>
+    <string name="radioButton_tc3">Black</string>
+    <string name="radioButton_tc1">Purple</string>
+    <string name="label2">Text Color</string>
+    <string name="label3">Text Style</string>
+    <string name="switchText">Bold</string>
+</resources>

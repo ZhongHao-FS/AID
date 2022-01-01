@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZhongHao_CE08</string>
+    <string name="floatButton_description">Add</string>
+    <string name="warning_text">Please add an item to the list</string>
+    <string name="imageView_description">Warning Sign</string>
+    <string name="editText_hint_name">Monster Name</string>
+    <string name="editText_hint_legs">Number of Legs</string>
+    <string name="textView_text">Monster has fur or not:</string>
+    <string name="buttonTitle_save">Save</string>
+    <string name="buttonTitle_delete">Delete</string>
+    <string name="buttonTitle_share">Share</string>
+    <string name="warning_name">Name cannot be empty!</string>
+    <string name="warning_num_tooSmall">Number must be larger than 0!</string>
+    <string name="warning_num">Please enter a valid number!</string>
+    <string name="key_saveMonster">EXTRA_MONSTER</string>
+    <string name="key_detailsMonster">EXTRA_MONSTER_DETAILS</string>
+    <string name="key_deleteMonster">KILL_MONSTER</string>
+</resources>

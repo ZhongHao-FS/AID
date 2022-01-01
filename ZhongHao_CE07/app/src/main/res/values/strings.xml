@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZhongHao_CE07</string>
+    <string name="editText_hint_firstname">First Name</string>
+    <string name="editText_hint_lastName">Last Name</string>
+    <string name="editText_hint_age">Age</string>
+    <string name="buttonTitle_save">Save</string>
+    <string name="buttonTitle_delete">Delete</string>
+    <string name="key_firstName">com.fullsail.android.jav2ce08.EXTRA_STRING_FIRST_NAME</string>
+    <string name="key_lastName">com.fullsail.android.jav2ce08.EXTRA_STRING_LAST_NAME</string>
+    <string name="key_age">com.fullsail.android.jav2ce08.EXTRA_INT_AGE</string>
+    <string name="warning_fName">First name cannot be empty!</string>
+    <string name="warning_lName">Last name cannot be empty!</string>
+    <string name="warning_age_tooSmall">Age must be larger than 0!</string>
+    <string name="warning_age">Please enter a valid number!</string>
+</resources>

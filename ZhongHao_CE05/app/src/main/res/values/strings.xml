@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZhongHao_CE05</string>
+    <string name="text_portrait_hint">Please rotate the device to landscape mode.</string>
+    <string name="buttonText_refresh">Refresh</string>
+    <string name="text_alert">No data available. Please add some.</string>
+    <string name="imageView_description">alert icon</string>
+    <string name="text_student">Add a Student</string>
+    <string name="editText_student_firstName_hint">First Name</string>
+    <string name="editText_student_lastName_hint">Last Name</string>
+    <string name="editText_student_idNum_hint">ID Number</string>
+    <string name="buttonText_addStudent">Add Student</string>
+    <string name="text_instructor">Add an Instructor</string>
+    <string name="editText_instructor_course_hint">Course</string>
+    <string name="buttonText_addInstructor">Add Instructor</string>
+    <string name="text_administrator">Add an Administrator</string>
+    <string name="buttonText_addAdmin">Add Administrator</string>
+    <string name="editText_admin_program_hint">Program</string>
+    <string-array name="spinner">
+        <item>Student</item>
+        <item>Instructor</item>
+        <item>Administrator</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZhongHao_CE04</string>
+    <string name="text_appName">App Name</string>
+    <string name="text_developer">Developer Name</string>
+    <string name="button_text">Uninstall</string>
+    <string name="button2_text">Open</string>
+    <string name="image_description">Header Image</string>
+    <string name="image2_description">App Icon</string>
+    <string name="text_appDescription">App description / unique value proposition</string>
+    <string name="image3_description">divider</string>
+    <string name="text_features">What\'s new\n 1. encaoivnerv\n 2. sfgnrveivnc\n 3. vnerovnasv\n 4. ewnvoanveo</string>
+    <string name="button3_text">Read More</string>
+    <string name="label">Developer</string>
+    <string name="text_emailAction">Send email</string>
+    <string name="text_detailsLink">Permission details</string>
+    <string name="text_flagAction">Flag as inappropriate</string>
+</resources>

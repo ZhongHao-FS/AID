@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZhongHao_CE01</string>
+    <string name="text_fullName">Hao Zhong</string>
+    <string name="image_description">profile picture</string>
+    <string name="text_section1">Birthday</string>
+    <string name="text_DOB">5-14-1989</string>
+    <string name="text_section2">Hometown</string>
+    <string name="text_hometown">Shenzhen, China</string>
+    <string name="text_section3">Hobbies</string>
+    <string name="text_hobbies">Reading\nGames\nMovies\nSwimming</string>
+    <string name="text_section4">About Me</string>
+    <string name="text_about">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla iaculis faucibus. Proin nisl enim, blandit lobortis mi vitae, suscipit faucibus erat. Nunc id luctus mauris. Mauris vel orci risus. Mauris egestas, ligula et bibendum aliquam, eros orci bibendum sem, quis rhoncus orci urna in metus. Pellentesque mauris sem, hendrerit ut ultrices quis, elementum non ipsum. Donec pulvinar nisl risus, in imperdiet dui consequat sed. Integer metus lorem, iaculis eget tristique in, pretium sit amet enim. Donec congue sit amet nisl sit amet rhoncus. Cras tincidunt porta fringilla.</string>
+    <string name="button_toConstraint">Constraint</string>
+    <string name="button_toLinear">Linear</string>
+</resources>
